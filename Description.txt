@@ -1,0 +1,54 @@
+                                        Project Title: JAVA FILE MANAGER SYSTEM
+
+D Giri Nageshwaran 
+Java Programming Intern
+February 2026
+
+Description:
+		This project is a console-based Java application that demonstrates file handling operations. 
+		The program allows users to write, read, modify, and delete text files. 
+		It also provides file statistics such as total lines, words, and characters.
+		The application includes input validation and exception handling for safe execution.
+
+Features:
+		1. Write to File – Appends user input to the file.
+		2. Read File – Displays file content.
+		3. Modify File – Replaces specific words in the file.
+		4. Delete File – Deletes file with confirmation.
+		5. File Statistics – Shows total lines, words, and characters.
+		6. Input Validation – Prevents invalid menu inputs.
+
+
+Technologies Used:
+
+		1.Java
+		2.File
+              	3.FileReader
+              	4.FileWriter
+		5.Scanner
+		6.StringBuilder
+	 	7.Exception Handling (try-catch)
+
+How to Run:
+
+		How to Run:
+
+                Using IntelliJ IDEA:
+                1. Open the project.
+                2. Run FileManager2.java.
+                3. Use menu options.
+
+                Using Command Line:
+                1. Compile: javac FileManager2.java
+                2. Run: java FileManager2
+
+
+Project Structure:
+
+		FileManager2.java   → Main application file
+		text.txt            → Auto-generated text file
+		README.txt          → Documentation file
+
+Conclusion:
+
+		This project demonstrates practical implementation of file handling concepts in Java including reading, writing, modifying, and deleting files. It also highlights structured programming and error handling techniques.
